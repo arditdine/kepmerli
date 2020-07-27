@@ -4899,7 +4899,7 @@ vertical-align: middle;
     }
     body{
         position: relative;
-        overflow: hidden;
+        /*overflow: hidden;*/
     }
     .banner-content label {
         display: block;
@@ -4947,7 +4947,7 @@ vertical-align: middle;
     }
     body{
         position: relative;
-        overflow: hidden;
+        /*overflow: hidden;*/
     }
     .banner-content label {
         display: block;
@@ -4988,7 +4988,7 @@ vertical-align: middle;
     }
     body{
         position: relative;
-        overflow: hidden;
+        /*overflow: hidden;*/
     }
     .banner-content label {
         display: block;
@@ -5032,7 +5032,7 @@ vertical-align: middle;
     }
     body{
         position: relative;
-        overflow: hidden;
+        /*overflow: hidden;*/
     }
     .banner-content label {
         display: block;
@@ -5076,7 +5076,7 @@ vertical-align: middle;
     }
     body{
         position: relative;
-        overflow: hidden;
+        /*overflow: hidden;*/
     }
     .banner-content label {
         display: block;
@@ -5124,7 +5124,7 @@ vertical-align: middle;
     }
     body{
         position: relative;
-        overflow: hidden;
+        /*overflow: hidden;*/
     }
     .banner-content label {
         display: block;
